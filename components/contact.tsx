@@ -34,14 +34,14 @@ export function Contact() {
   
   // 기본 데이터
   const defaultInfo = {
-    name: "당신의 이름",
-    title: "직책/직무",
+    name: "김재용",
+    title: "단국대학교 학생 · 원우회장",
     company: "",
-    experience: "3년 경력",
+    experience: "단국대학교 재학 중",
     phone: "010-0000-0000",
     email: "your-email@example.com",
     website: "",
-    location: "당신의 위치",
+    location: "단국대학교",
     workTime: "평일 09:00 - 18:00",
     responseTime: "24시간 이내 응답",
     sectionTitle: "연락처",
