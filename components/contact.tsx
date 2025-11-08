@@ -35,7 +35,7 @@ export function Contact() {
   // 기본 데이터
   const defaultInfo = {
     name: "김재용",
-    title: "단국대학교 학생 · 원우회장",
+    title: "단국대학교 학생 · 36기",
     company: "",
     experience: "단국대학교 재학 중",
     phone: "010-0000-0000",

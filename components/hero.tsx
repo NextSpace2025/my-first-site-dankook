@@ -39,7 +39,7 @@ export function Hero() {
     greeting: "안녕하세요,",
     name: "김재용",
     title: "단국대학교 학생 · 36기",
-    description: "단국대학교에서 공부하며 원우회장을 역임하고 있습니다. 학생들을 위한 다양한 활동과 프로그램을 기획하고 운영합니다.",
+    description: "단국대학교에서 공부하며 학생들을 위한 다양한 활동과 프로그램을 기획하고 운영합니다.",
     profileImage: "/uploads/hero-profile-1761477237286.png",
     backgroundImage: "",
     backgroundVideo: "",
